@@ -1,0 +1,54 @@
+.character{
+    text-decoration: underline;
+}
+
+.name{
+font-weight: bold;
+}
+
+.paragraph{
+    font-style: italic;
+}
+
+.kaori{
+    font-weight: bold;
+}
+
+.p{
+    font-style: italic;
+}
+
+.image{
+    width: 400px;
+}
+
+.grid{
+    display: flex;
+}
+
+.item {
+    margin: 20px;
+}
+body{
+    background-image: url(lie.jpg);
+}
+
+.text{
+    background-color: white;
+    opacity: 0.9;
+    text-align: center;
+}
+
+.video{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.comment{
+    margin-top: 20px;
+    
+}
+
+.button{
+    margin-bottom: 20px;
+}
